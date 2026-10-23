@@ -1,0 +1,365 @@
+﻿fecha_consulta,pais,categoria,servicio
+2026-10-22T21:05:15-06:00,Nicaragua,Recarga Cell,Claro Tiempo Aire
+2026-10-22T21:05:15-06:00,Nicaragua,Recarga Cell,Tigo Tiempo Aire
+2026-10-22T21:05:15-06:00,Nicaragua,Recarga Cell,PaqueTigos
+2026-10-22T21:05:15-06:00,Nicaragua,Recarga Cell,Claro SuperPacks
+2026-10-22T21:05:15-06:00,Nicaragua,Empresa de Agua,Enacal
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas TV-Cable,Galaxy Nicaragua Sky
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas Energía Eléctrica,Disnorte Nis
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas Energía Eléctrica,Dissur Nis
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas Internet,Claro: Turbonet Fijo
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas Internet,Claro: Internet 3G
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas Internet,Claro: Estesa
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas Internet,Amnet
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas Internet,Ibw
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas Internet,Alfanumeric
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas Telefonía,Claro Celular
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas Telefonía,Claro: Telefonía Fija
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas Telefonía,Claro: Casa Claro
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas Telefonía,Claro: Pago De Distribuidores
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas Telefonía,Global Start
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas Telefonía,Tigo Movil Pagos de Facturas
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas Telefonía,Claro Distribuidores Online
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas Telefonía,Tigo Hogar/Tigo Business
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas Telefonía,Tipo Pagos Distribuidores
+2026-10-22T21:05:15-06:00,Nicaragua,Otros,Solsesa
+2026-10-22T21:05:15-06:00,Nicaragua,Otros,Holcim Contado
+2026-10-22T21:05:15-06:00,Nicaragua,Otros,Holcim Credito
+2026-10-22T21:05:15-06:00,Nicaragua,Otros,Bayer S.A
+2026-10-22T21:05:15-06:00,Nicaragua,Otros,Equipos y Sistemas
+2026-10-22T21:05:15-06:00,Nicaragua,Otros,Cemex
+2026-10-22T21:05:15-06:00,Nicaragua,Otros,PDUNO
+2026-10-22T21:05:15-06:00,Nicaragua,Otros,Oriflame
+2026-10-22T21:05:15-06:00,Nicaragua,Otros,PayCash Monto Fijo
+2026-10-22T21:05:15-06:00,Nicaragua,Otros,PayCash Monto Editable
+2026-10-22T21:05:15-06:00,Nicaragua,Instituciones Educativas,Esc. Pierre Marie Curie
+2026-10-22T21:05:15-06:00,Nicaragua,Instituciones Educativas,Fondos Perpetuo Para La Educación
+2026-10-22T21:05:15-06:00,Nicaragua,Instituciones Educativas,Christian Academy Matagalpa
+2026-10-22T21:05:15-06:00,Nicaragua,Instituciones Educativas,Christian Academy Nejapa
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas de Gobierno,Inatec
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas de Gobierno,Inss
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas de Gobierno,DGA - Declaraciones Petsa
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas de Gobierno,DGA - Servicios Petsa
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas de Gobierno,DGA - Multas Petsa
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas de Gobierno,Dgi-Pago Bit
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas de Gobierno,EPN(Referencia pago)
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas de Gobierno,EPN(codigo de cliente)
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas de Gobierno,DGA - Contingencias PETSA
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas de Gobierno,Servicio VUCEN
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas LAFISE,Almacenadora Lafise
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas LAFISE,Fundación Zamora Teran
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas LAFISE,Seguros Lafise
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas de Seguridad,Wackenhut De Nicaragua
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas de Donaciones,Conanca
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas de Donaciones,Iglesia de Jesucristo de los Santos de los Últimos Días
+2026-10-22T21:05:15-06:00,Nicaragua,Alcaldías,Alcaldía de Managua (ALMA)
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas Remesadoras,Remesa RIA
+2026-10-22T21:05:15-06:00,Nicaragua,Empresas Remesadoras,Nicaragua-Link remesas
+2026-10-22T21:05:15-06:00,Panamá,Empresas de Servicios Públicos,Aseo capital
+2026-10-22T21:05:15-06:00,Panamá,Empresas de Servicios Públicos,ATTT LIcencia
+2026-10-22T21:05:15-06:00,Panamá,Empresas de Servicios Públicos,Naturgy-deuda acuerdo
+2026-10-22T21:05:15-06:00,Panamá,Empresas de Servicios Públicos,Cargo pass
+2026-10-22T21:05:15-06:00,Panamá,Empresas de Servicios Públicos,Claro recargas
+2026-10-22T21:05:15-06:00,Panamá,Empresas de Servicios Públicos,Sonda
+2026-10-22T21:05:15-06:00,Panamá,Empresas de Servicios Públicos,Naturgy -pago regular
+2026-10-22T21:05:15-06:00,Panamá,Empresas de Servicios Públicos,Ensa pagos
+2026-10-22T21:05:15-06:00,Panamá,Servicios de Telefonía,Tigo pagos
+2026-10-22T21:05:15-06:00,Panamá,Servicios de Telefonía,Cable and wireless factura movil
+2026-10-22T21:05:15-06:00,Panamá,Servicios de Telefonía,Pagos digicel
+2026-10-22T21:05:15-06:00,Panamá,Servicios de Telefonía,Digicel recargas
+2026-10-22T21:05:15-06:00,Panamá,Servicios de Telefonía,Claro pagos
+2026-10-22T21:05:15-06:00,Panamá,Servicios de Telefonía,Tigo recargas
+2026-10-22T21:05:15-06:00,Panamá,Servicios de Telefonía,Cable and wireless recarga
+2026-10-22T21:05:15-06:00,Panamá,Servicios de Telefonía,Cable and wireless pago
+2026-10-22T21:05:15-06:00,Panamá,Instituciones de la Educación,Universidad de Panamá
+2026-10-22T21:05:15-06:00,Panamá,Empresas de Seguros,MAPFRE Panamá
+2026-10-22T21:05:15-06:00,Panamá,Empresas de Seguros,Municipio de Panamá
+2026-10-22T21:05:15-06:00,Panamá,Empresas de Seguros,Banesco Seguros
+2026-10-22T21:05:15-06:00,Panamá,Empresas de Seguros,Seguros Vivir
+2026-10-22T21:05:15-06:00,Panamá,Empresas de Seguros,Seguros Fedpa
+2026-10-22T21:05:15-06:00,Panamá,Empresas de Seguros,TIGO CABLE ONDA
+2026-10-22T21:05:15-06:00,Panamá,Empresas de Seguros,UNITY DUCRUET
+2026-10-22T21:05:15-06:00,Panamá,Empresas de Corredores,PANAPASS
+2026-10-22T21:05:15-06:00,Panamá,Otros Servicios,ATT Boletas
+2026-10-22T21:05:15-06:00,Panamá,Otros Servicios,Mapfre Panamá
+2026-10-22T21:05:15-06:00,Panamá,Otros Servicios,Municipio de Panamá
+2026-10-22T21:05:15-06:00,Panamá,Otros Servicios,Attt licencia
+2026-10-22T21:05:15-06:00,Panamá,Otros Servicios,Seguros fedpa
+2026-10-22T21:05:15-06:00,Panamá,Otros Servicios,Naturgy- pago regular
+2026-10-22T21:05:15-06:00,Panamá,Otros Servicios,Ensa pagos
+2026-10-22T21:05:15-06:00,Costa Rica,Telefonía Móvil,KOLBI
+2026-10-22T21:05:15-06:00,Costa Rica,Telefonía Móvil,Claro - Telefonía Pre Pago
+2026-10-22T21:05:15-06:00,Costa Rica,Telefonía Móvil,Movistar - Pre Pago
+2026-10-22T21:05:15-06:00,Costa Rica,Servicios Públicos y Privados,Caja Costarricense del Seguro Social (CCSS)
+2026-10-22T21:05:15-06:00,Costa Rica,Servicios Públicos y Privados,ICE Teléfono
+2026-10-22T21:05:15-06:00,Costa Rica,Servicios Públicos y Privados,ICE Electricidad
+2026-10-22T21:05:15-06:00,Costa Rica,Servicios Públicos y Privados,AYA Agua
+2026-10-22T21:05:15-06:00,Costa Rica,Servicios Públicos y Privados,CNFL Electricidad
+2026-10-22T21:05:15-06:00,Costa Rica,Servicios Públicos y Privados,RACSA Internet
+2026-10-22T21:05:15-06:00,Costa Rica,Servicios Públicos y Privados,Movistar - Pago de Facturas
+2026-10-22T21:05:15-06:00,Costa Rica,Servicios Públicos y Privados,Movistar - Compra de Equipo / Tiempo Aire Distr
+2026-10-22T21:05:15-06:00,Costa Rica,Servicios Públicos y Privados,Movistar - Depósito Roaming
+2026-10-22T21:05:15-06:00,Costa Rica,Servicios Públicos y Privados,Movistar - Pago Anticipado
+2026-10-22T21:05:15-06:00,Costa Rica,Servicios Públicos y Privados,Claro - Telefonía Post Pago
+2026-10-22T21:05:15-06:00,Costa Rica,Servicios Públicos y Privados,JASEC- Servicios Eléctricos
+2026-10-22T21:05:15-06:00,Costa Rica,Servicios Públicos y Privados,Empresa Servicios Públicos de Heredia
+2026-10-22T21:05:15-06:00,Costa Rica,Servicios Públicos y Privados,CoopeGuanacaste / Cobro de Recibos Eléctricos - CoopeGuanacaste
+2026-10-22T21:05:15-06:00,Costa Rica,Servicios Públicos y Privados,COOPELESCA / Facturación - COOPELESCA
+2026-10-22T21:05:15-06:00,Costa Rica,Servicios Públicos y Privados,GTI Pago de facturas
+2026-10-22T21:05:15-06:00,Costa Rica,Empresas TV-Cable,TIGO
+2026-10-22T21:05:15-06:00,Costa Rica,Empresas TV-Cable,Tele Cable Economico TV
+2026-10-22T21:05:15-06:00,Costa Rica,Empresas TV-Cable,Cable Tica Cobro Servicios
+2026-10-22T21:05:15-06:00,Costa Rica,Empresas TV-Cable,Sky CR
+2026-10-22T21:05:15-06:00,Costa Rica,Empresas TV-Cable,Cable Visión
+2026-10-22T21:05:15-06:00,Costa Rica,Empresas TV-Cable,CLARO TV Satelital
+2026-10-22T21:05:15-06:00,Costa Rica,Empresas de Seguridad,ADT Security Services
+2026-10-22T21:05:15-06:00,Costa Rica,Empresas de Seguridad,ACESA Alarmas y Control Electrónico S.A - Facturac
+2026-10-22T21:05:15-06:00,Costa Rica,Empresas de Seguridad,Seguridad Falcon Guanacaste
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Liberia / Bienes Inmuebles
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Liberia / Cementerios
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Liberia / Pago Total
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Liberia / Pagos Varios
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Liberia / Patentes
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Liberia / Servicios Urbanos
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de La Unión / Cobros Municipales
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Escazú / Patentes
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Escazú / Cementerios
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Escazú / Tributo Unificado
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Belén / Arreglos de Pago
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Belén / Pago de Bienes Inmuebles
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Belén / Pago de Cementerios
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Belén / Pago de Patentes
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Belén / Pago de Servicios Urbanos
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Belén / Pago Total
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Cañas - Cobro Municipal
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Carillo
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Cartago / Alquileres del Mercado
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Cartago / Bienes Inmuebles
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Cartago / Pago Adel. Alquiler Mercado
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Cartago / Pago Adelantado Bienes Inmuebles
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Cartago / Pago Adelantado Patentes
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Cartago / Pago Adelantado Serv.Munic
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Cartago / Patentes
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Cartago / Servicios Municipales
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Curridabat
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Desamparados / Arreglo de Pago - Muni.Desamparados
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Desamparados / Bienes Inmuebles
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Desamparados / Cementerios
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Desamparados / Pago Total
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Desamparados / Patentes
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Desamparados / Servicios Urbanos
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Grecia / Cementerios
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Grecia / Impuesto Bienes Inmuebles
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Grecia / Patentes
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Grecia / Servicios Urbanos
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Grecia / Totalidad de Tributos
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Heredia
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Montes de Oca / Bienes Inmuebles
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Montes de Oca / Cementerios
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Montes de Oca / Pago Total
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Montes de Oca / Patentes
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Montes de Oca / Servicios Municipales
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Moravia / Cobro Municipal
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Paraíso - Tributos Municipales
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Oreamuno
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de San José - Monitoreo de Alarma
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de San José - Impuestos
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Santa Ana
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de San Pablo de Heredia
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Sn Rafael de Heredia
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Sto Domingo de Heredia
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad del Guarco - Cobro Municipal
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Tibas
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de La Cruz - Pago Parcial
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de La Cruz - Pago Total
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Parrita - Pago Anual
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Parrita - Pago Parcial
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Parrita - Pago Vencido
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Pococi - Pago Parcial
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Pococi - Pago Total
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Palmares - Pago Parcial
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Poás
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Siquirres - Bienes Inmuebles
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Siquirres - Pagos Mercado
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Siquirres - Patentes Municipales
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Sarapiqui - Bienes Inmuebles
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Sarapiqui - Cobro de Patentes Mun
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Sarapiqui - Recolección de Basura
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Santa Cruz - Cobro Municipal
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de San Ramon - Cobro Municipal
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Tarrazú - Pago Parcial
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Tarrazú - Pago Parcial de Bienes Inmuebles
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Tarrazú - Pago Parcial de Servicios
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Tarrazú - Pago Total
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Tarrazú - Pago de Agua
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Tarrazú - Pago de Patentes
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Tarrazú - Pago del Pendiente
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Tarrazú - Pago Multa No Declaración
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Talamanca - Pago Total
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Talamanca - Pago Vencido
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de San Carlos - Pago Parcial
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de San Carlos - Pago Total
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Upala - Pago Parcial
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Upala - Pago Anual
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Valverde Vega
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Tilarán - Cobro Municipal
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Goicoechea - Cobro Municipal
+2026-10-22T21:05:15-06:00,Costa Rica,Impuestos y Servicios Municipales,Municipalidad de Abangares - Cobro Municipal
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Colegio Metodista
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Colegio Saint Francis
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Colegio Saint Gregory
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Colegio Salesiano Don Bosco Zapote
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Colegio San Isidro de Heredia
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Colegio Santa Ana Liberia
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Colegio Santa Sofia
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Creativa Monteverde
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Escuela Bilingue Las nubes
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,ICER MEP
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,ICS Ciudad Blanca
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Idiomas Mundiales
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Jardín de Niños Manitas Traviesas
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Kamuk School
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Colegio de Ingenieros y Arquitectos / Tasación - Col.Ingenieros y Arquit.
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Universidad de Costa Rica / PAGO DE MATRICULA - UCR
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Universidad de Costa Rica / ARREGLOS DE PAGO DE MATRICULA - UCR
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Universidad de Costa Rica / DEUDAS DE BIBLIOTECA - UCR
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Universidad de Costa Rica / Facturación - UCR
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Universidad de Costa Rica / REINTEGRO BENEF. COMPLEMENT. BECA - UCR
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Universidad de Costa Rica / Modificación de Beca - UCR
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Universidad de Costa Rica / Casa Infantil sede Occidente - UCR
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Universidad de Costa Rica / Centro Infantil Laboratorio - UCR
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Universidad de Costa Rica / Casa Infantil Universitaria - UCR
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Universidad de Costa Rica / Girados de más a estudiantes - UCR
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Universidad de Costa Rica / INSCRIP. Concurso carrera - UCR
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Universidad de Costa Rica / SEGURO VOLUNT ESTUDL CONVENIO CCSS-CONARE - UCR
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Universidad de Costa Rica / ETAP BÁSICA MÚSICA CON EXONER. - UCR
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Universidad de Costa Rica / Admisión por Inscribirse en SAU - UCR
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Universidad de Costa Rica / Derecho MARCHAMO - UCR
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Universidad de Costa Rica / Exámen Diagnóstico de Inglés - UCR
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Universidad de Costa Rica / Exámen Diagnóstico Matemática - UCR
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Universidad de Costa Rica / Admision -Inscrito en SAU - UCR
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Universidad de Costa Rica / Prueba de habilidades Cuantitativas 2020 - UCR
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Universidad de Costa Rica / Derecho Marchamo y Tarjeta - UCR
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Universidad Nacional
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Colegio de Prof. Inform. y Computación
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Centro Educ. Nueva Esperanza
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Colegio Angloamericano
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Colegio de Abogados de CR - Colegiatura
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Colegio de Profesionales en Ciencias Económicas
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Crédito del Régimen de Mutualidad CFIA
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Pago Morosidad de Estudiantes - TEC
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Pago de Recuperación de Préstamos - TEC
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Pago de Matrícula - TEC
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Pago de Colegiatura - Col.Ingenieros y Arquit.
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Colegio de Médicos y Cirujanos de CR - Pago Colegio
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Colegio de Médicos Veterinarios de CR
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Colegio de Licenciados y Profesores - Pago Colegia
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Universidad Castro Carazo - Letra de Cambio
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Colegio de Cirujanos Dentistas de CR
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Colegio de Contadores Públicos de CR - Colegiatura
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Colegio de Ingenieros Agrónomos - Colegiatura
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Colegio de Periodistas de CR - Colegiatura
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Colegio de Psicólogos - Colegiatura
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Colegio de Trabajadores Sociales - Colegiatura
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,UACA Cipreses - Pago de Estudiantes
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,UAM Universidad Americana - Pago de Obligaciones
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,UMCA
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Universidad Creativa - Pago de cuota y aranceles
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Permisos de Construcción - Col.Ingenieros y Arquitectos
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Colegio de Contadores Privados de CR
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Universidad Latina
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Centro Cultural Costarricense Nort. - Fact Dólares
+2026-10-22T21:05:15-06:00,Costa Rica,Instituciones Educativas,Centro Cultural Costarricense Nort.- Fact Colones
+2026-10-22T21:05:15-06:00,Costa Rica,Ministerio de Hacienda,Impuesto Solidario
+2026-10-22T21:05:15-06:00,Costa Rica,Ministerio de Hacienda,Impuesto sobre la Renta
+2026-10-22T21:05:15-06:00,Costa Rica,Ministerio de Hacienda,Impuesto al Valor Agregado (IVA)
+2026-10-22T21:05:15-06:00,Costa Rica,Ministerio de Hacienda,Timbre Educación y Cultura
+2026-10-22T21:05:15-06:00,Costa Rica,Ministerio de Hacienda,Retención de la Fuente
+2026-10-22T21:05:15-06:00,Costa Rica,Ministerio de Hacienda,Impuesto a las Personas Jurídicas
+2026-10-22T21:05:15-06:00,Costa Rica,Ministerio de Hacienda,Impuesto Bebidas sin Alcohol
+2026-10-22T21:05:15-06:00,Costa Rica,Ministerio de Hacienda,Apuestas Electrónicas
+2026-10-22T21:05:15-06:00,Costa Rica,Ministerio de Hacienda,Canon del Espectro Radioeléctrico
+2026-10-22T21:05:15-06:00,Costa Rica,Ministerio de Hacienda,Rentenciones IVA Tarjetas
+2026-10-22T21:05:15-06:00,Costa Rica,Ministerio de Hacienda,Parafiscal Cruz Roja
+2026-10-22T21:05:15-06:00,Costa Rica,Ministerio de Hacienda,Casinos
+2026-10-22T21:05:15-06:00,Costa Rica,Ministerio de Hacienda,Bebidas Alcohólicas
+2026-10-22T21:05:15-06:00,Costa Rica,Otros Servicios,Servicios Funerarios
+2026-10-22T21:05:15-06:00,Costa Rica,Otros Servicios,INVU
+2026-10-22T21:05:15-06:00,Costa Rica,Otros Servicios,INS
+2026-10-22T21:05:15-06:00,Costa Rica,Otros Servicios,Cámara de Industria
+2026-10-22T21:05:15-06:00,Costa Rica,Otros Servicios,Cámara de Construcción
+2026-10-22T21:05:15-06:00,Costa Rica,Otros Servicios,Credix
+2026-10-22T21:05:15-06:00,Costa Rica,Otros Servicios,E-credit
+2026-10-22T21:05:15-06:00,Costa Rica,Otros Servicios,CONAPE
+2026-10-22T21:05:15-06:00,Costa Rica,Otros Servicios,Grupo Monge
+2026-10-22T21:05:15-06:00,Costa Rica,Otros Servicios,Membresías de Clubes
+2026-10-22T21:05:15-06:00,Costa Rica,Otros Servicios,Estilos
+2026-10-22T21:05:15-06:00,Costa Rica,Otros Servicios,Avon
+2026-10-22T21:05:15-06:00,Costa Rica,Otros Servicios,L´bel
+2026-10-22T21:05:15-06:00,Costa Rica,Otros Servicios,Safetypay
+2026-10-22T21:05:15-06:00,Honduras,Telefonía Celular,TIGO Móvil
+2026-10-22T21:05:15-06:00,Honduras,Telefonía Celular,CLARO Móvil
+2026-10-22T21:05:15-06:00,Honduras,Telefonía Celular,CLARO SuperPacks
+2026-10-22T21:05:15-06:00,Honduras,Telefonía Celular,TIGO-Super Recargas
+2026-10-22T21:05:15-06:00,Honduras,Telefonía Celular,TIGO Paquetigos
+2026-10-22T21:05:15-06:00,Honduras,Telefonía Celular,TIGO-Recargas
+2026-10-22T21:05:15-06:00,Honduras,Telefonía Celular,CLARO-Recargas
+2026-10-22T21:05:15-06:00,Honduras,Empresas de Agua,SANAA
+2026-10-22T21:05:15-06:00,Honduras,Empresas de Agua,Aguas de SPS
+2026-10-22T21:05:15-06:00,Honduras,Empresas TV-Cable,CLARO-TV
+2026-10-22T21:05:15-06:00,Honduras,Empresas TV-Cable,SKY
+2026-10-22T21:05:15-06:00,Honduras,Empresas Energía Eléctrica,RECO
+2026-10-22T21:05:15-06:00,Honduras,Empresas Energía Eléctrica,ENEE
+2026-10-22T21:05:15-06:00,Honduras,Empresas Internet,TIGO Home
+2026-10-22T21:05:15-06:00,Honduras,Empresas Internet,TIGO Bussiness
+2026-10-22T21:05:15-06:00,Honduras,Empresas Telefonía,HONDUTEL
+2026-10-22T21:05:15-06:00,Honduras,Instituciones Educativas,Matrícula UNAH
+2026-10-22T21:05:15-06:00,Honduras,Empresas de Gobierno,Operadora Nacional Portuaria (OPC)
+2026-10-22T21:05:15-06:00,Honduras,Empresas de Gobierno,Recibo de pago TGR-1
+2026-10-22T21:05:15-06:00,Honduras,Empresas de Gobierno,Empresa Nacional Portuaria (ENP)
+2026-10-22T21:05:15-06:00,Honduras,Empresas de Gobierno,AMDC
+2026-10-22T21:05:15-06:00,Honduras,Empresas de Gobierno,Pago IHSS
+2026-10-22T21:05:15-06:00,Honduras,Empresas de Gobierno,Matrícula de Vehículos
+2026-10-22T21:05:15-06:00,Honduras,Empresas de Gobierno,Alcaldía Municipal SPS
+2026-10-22T21:05:15-06:00,Honduras,Empresas de Gobierno,RAP
+2026-10-22T21:05:15-06:00,Honduras,Empresas de Gobierno,ADUANAS - pago Boletines
+2026-10-22T21:05:15-06:00,Honduras,Empresas LAFISE,Seguros LAFISE
+2026-10-22T21:05:15-06:00,Honduras,Cobro de Remesas,Moneygram
+2026-10-22T21:05:15-06:00,Honduras,Cobro de Remesas,BTS
+2026-10-22T21:05:15-06:00,Honduras,Cobro de Remesas,RIA
+2026-10-22T21:05:15-06:00,Honduras,Cobro de Remesas,BARRI
+2026-10-22T21:05:15-06:00,Honduras,Otros,Recaudo ARREND LEASING
+2026-10-22T21:05:15-06:00,Honduras,Otros,Loto
+2026-10-22T21:05:15-06:00,República Dominicana,Servicios de Telefonía,WIND TELECOM pago de facturas
+2026-10-22T21:05:15-06:00,República Dominicana,Servicios de Telefonía,VIVA pago de facturas
+2026-10-22T21:05:15-06:00,República Dominicana,Servicios de Telefonía,ALTICE PAGO FT
+2026-10-22T21:05:15-06:00,República Dominicana,Servicios de Telefonía,TRICOM/ALTICE Pago de facturas
+2026-10-22T21:05:15-06:00,República Dominicana,Servicios de Telefonía,CLARO PAGO FT
+2026-10-22T21:05:15-06:00,República Dominicana,Empresa de Acueductos,CAASD ORIENTAL Pago FT
+2026-10-22T21:05:15-06:00,República Dominicana,Empresa de Acueductos,CORAAPPLATA
+2026-10-22T21:05:15-06:00,República Dominicana,Empresa de Acueductos,CORAAVEGA Pago de factura
+2026-10-22T21:05:15-06:00,República Dominicana,Empresa de Acueductos,CAASD
+2026-10-22T21:05:15-06:00,República Dominicana,Empresas TV-Cable,SKYMAX ABONO Pago FT
+2026-10-22T21:05:15-06:00,República Dominicana,Empresas TV-Cable,STARCABLE Pago DE FTO
+2026-10-22T21:05:15-06:00,República Dominicana,Empresas TV-Cable,ASTER Pago FT
+2026-10-22T21:05:15-06:00,República Dominicana,Empresas TV-Cable,CLARO PAGO FT
+2026-10-22T21:05:15-06:00,República Dominicana,Empresas Energía Eléctrica,CEB Recarga
+2026-10-22T21:05:15-06:00,República Dominicana,Empresas Energía Eléctrica,CEPM Recarga
+2026-10-22T21:05:15-06:00,República Dominicana,Empresas Energía Eléctrica,CEB Pago FT
+2026-10-22T21:05:15-06:00,República Dominicana,Empresas Energía Eléctrica,EDESUR Pago FT
+2026-10-22T21:05:15-06:00,República Dominicana,Empresas Energía Eléctrica,EDESUR Pago de facturas
+2026-10-22T21:05:15-06:00,República Dominicana,Empresas Energía Eléctrica,CEPM Pago FT
+2026-10-22T21:05:15-06:00,República Dominicana,Empresas Energía Eléctrica,EDENORTE Pagatodo Online
+2026-10-22T21:05:15-06:00,República Dominicana,Seguros,Seguros PEPIN
+2026-10-22T21:05:15-06:00,República Dominicana,Seguros,LA COLONIAL PAGATODO Online
+2026-10-22T21:05:15-06:00,República Dominicana,Seguros,CREDIMAT
+2026-10-22T21:05:15-06:00,República Dominicana,Seguros,ATLÁNTICA Seguros
+2026-10-22T21:05:15-06:00,República Dominicana,Seguros,Seguros RESERVAS
+2026-10-22T21:05:15-06:00,República Dominicana,Seguros,HUMANO SEGUROS Pago de facturas
+2026-10-22T21:05:15-06:00,República Dominicana,Instituciones de Educación,UNAPEC IDIOMAS PAGO DE FT
+2026-10-22T21:05:15-06:00,República Dominicana,Instituciones de Educación,UNIBE PAGO DE FT
+2026-10-22T21:05:15-06:00,República Dominicana,Instituciones de Educación,PUCMM SANTIAGO Pago de facturas
+2026-10-22T21:05:15-06:00,República Dominicana,Instituciones de Educación,PUCMM SANTO DOMINGO Pago de facturas
+2026-10-22T21:05:15-06:00,República Dominicana,Empresas de Gobierno,DGA Pagos
+2026-10-22T21:05:15-06:00,República Dominicana,Empresas de Gobierno,Servicio DGI
+2026-10-22T21:05:15-06:00,República Dominicana,Ayuntamientos,AND Pago FT
