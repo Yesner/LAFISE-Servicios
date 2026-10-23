@@ -1,0 +1,10 @@
+Conectarnos:
+https://www.lafise.com/bancanet/lafiservicios/index.html
+
+Recorrer cada uno de los paises
+
+Obtener sus categorias
+
+Obtener el listado de los servicios que existen por cada una de las categorias
+
+Guardar los datos en un archivo
